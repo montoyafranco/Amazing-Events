@@ -98,7 +98,7 @@ function displayCard(array1) {
 }
 
 
-
+//hola prueba de git
 function filtrarValyText(seleccionado, inputVal) {
     var filtered = []
     if (inputVal != undefined) {
